@@ -15,6 +15,11 @@ class ViewController: UIViewController {
         
         let name = "karthik"
         print(name)
+        
+        let arr = "suri"
+        
+        print(arr)
+        
         // Do any additional setup after loading the view.
     }
 
